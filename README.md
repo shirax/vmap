@@ -1,7 +1,5 @@
 # Vmap
 
-(write some stuff here!)
-
 ## Dev
 
 [Install Meteor](https://guide.meteor.com/#quickstart), then:
