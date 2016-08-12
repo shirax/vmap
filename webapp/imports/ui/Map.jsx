@@ -7,13 +7,13 @@ class AddForm extends Component {
   handleSubmit (event) {
     event.preventDefault();
     Locations.insert({
-      coordinates: [1, 2],
+      coordinates: this.props.coordinates,
       name: ReactDOM.findDOMNode(this.refs.name).value.trim()
     })
   }
 
   render () {
-    return <div id='add-form'>
+    return <div id='add-form' style={{display: this.props.coordinates ? '' : 'none'}}>
         <form>
             <input type='text' ref='name'></input>
             <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
@@ -25,6 +25,13 @@ class AddForm extends Component {
 
 export default class Map extends Component {
 
+  constructor (props) {
+    super(props)
+    this.state = {
+      addCoordinates: null
+    }
+  }
+
   componentDidMount () {
     mapboxgl.accessToken = 'pk.eyJ1IjoieXV2YWRtIiwiYSI6ImNpcnMxbWx1eDAwZTloam5oMXdqN2R6bDYifQ.LGjBhkdSjDCEHcw6iNjpxg';
     this.map = new mapboxgl.Map({
@@ -33,6 +40,12 @@ export default class Map extends Component {
       center: [34.8, 31.2],
       zoom: 6
     });
+
+    this.map.on('click', (e) => {
+      this.setState({
+        addCoordinates: e.lngLat
+      })
+    })
 
     var geojson = {
         "type": "FeatureCollection",
@@ -75,7 +88,7 @@ export default class Map extends Component {
     return (
       <div id='map-container'>
           <div id='map'></div>
-          <AddForm/>
+          <AddForm coordinates={this.state.addCoordinates} />
       </div>
     );
   }
