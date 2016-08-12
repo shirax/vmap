@@ -1,5 +1,17 @@
 import React, { Component } from 'react';
 
+class AddForm extends Component {
+
+  render () {
+    return <div id='add-form'>
+        <form>
+            <input type='text'></input>
+        </form>
+    </div>
+  }
+
+}
+
 export default class Map extends Component {
 
   componentDidMount () {
@@ -50,7 +62,10 @@ export default class Map extends Component {
 
   render () {
     return (
-      <div id='map'></div>
+      <div id='map-container'>
+          <div id='map'></div>
+          <AddForm/>
+      </div>
     );
   }
 

@@ -8,3 +8,12 @@ div#map {
     width: 100vw;
     height: 100vh;
 }
+
+div#add-form {
+    height: 65vh;
+    width: 80vw;
+    background-color: white;
+    position: fixed;
+    top: 10vh;
+    left: 10vw;
+}
