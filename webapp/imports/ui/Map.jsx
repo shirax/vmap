@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class App extends Component {
 
   componentDidMount () {
-    mapboxgl.accessToken = 'pk.eyJ1IjoieXV2YWRtIiwiYSI6ImNpaWN5b3Q0cTAwMGZ3ZmtyeXFkcjQwcmYifQ.OgVsYPOhzLUOOD82004IJw';
+    mapboxgl.accessToken = 'pk.eyJ1IjoieXV2YWRtIiwiYSI6ImNpcnMxbWx1eDAwZTloam5oMXdqN2R6bDYifQ.LGjBhkdSjDCEHcw6iNjpxg';
     this.map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/mapbox/streets-v9'
