@@ -9,18 +9,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="35.71875"
+   width="35.718773"
    height="38.48238"
-   viewBox="0 0 35.71875 38.482381"
-   id="svg5799"
+   viewBox="0 0 35.718773 38.482381"
+   id="svg7129"
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="not-going.svg">
   <defs
-     id="defs5801">
+     id="defs7131">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5681"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect5685"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5681-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5685-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5685-3"
        is_visible="true" />
   </defs>
   <sodipodi:namedview
@@ -31,18 +47,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.592467"
-     inkscape:cx="19.223595"
+     inkscape:cx="17.859386"
      inkscape:cy="19.24119"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="5"
      fit-margin-right="5"
-     units="px"
+     fit-margin-bottom="5"
      fit-margin-left="5"
-     fit-margin-bottom="5" />
+     units="px" />
   <metadata
-     id="metadata5804">
+     id="metadata7134">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -57,10 +73,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-160.99387,-513.12101)">
+     transform="translate(182.8932,-562.36881)">
     <g
        id="g5753"
-       transform="translate(-239.8099,206.95528)">
+       transform="translate(-583.69696,256.20308)">
       <circle
          r="12.859382"
          cy="325.40692"
@@ -72,7 +88,7 @@
          transform="matrix(0.51453444,0.51453444,-0.51453444,0.51453444,370.99781,-48.845981)"
          id="g5757">
         <path
-           inkscape:path-effect="#path-effect5685"
+           inkscape:path-effect="#path-effect5685-3"
            style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.9845643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 415,312.3622 -10,10"
            id="path5761"
