@@ -12,9 +12,13 @@ export default class App extends Component {
     });
   }
 
-  render() {
-     return (
-       <div id='map'></div>
+  componentWillUnmount () {
+    this.map.remove();
+  }
+
+  render () {
+    return (
+      <div id='map'></div>
     );
   }
 
