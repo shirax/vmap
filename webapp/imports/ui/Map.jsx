@@ -12,7 +12,7 @@ export default class App extends Component {
 
   render() {
      return (
-       <div id='map' style={{width: 100+'vw', height: 100+'vh'}}></div>
+       <div id='map'></div>
     );
   }
 
