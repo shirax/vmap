@@ -1,11 +1,22 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+import { Locations } from '../api/locations.js'
 
 class AddForm extends Component {
+
+  handleSubmit (event) {
+    event.preventDefault();
+    Locations.insert({
+      coordinates: [1, 2],
+      name: ReactDOM.findDOMNode(this.refs.name).value.trim()
+    })
+  }
 
   render () {
     return <div id='add-form'>
         <form>
-            <input type='text'></input>
+            <input type='text' ref='name'></input>
+            <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
         </form>
     </div>
   }
