@@ -1,5 +1,7 @@
 <img src="https://cdn.rawgit.com/shirax/vmap/master/webapp/public/img/logo.svg" height="200">
-# Vmap - directing to action
+
+# Vmap - Directing to Action
+
 Vmap is an interactive map presents Vegan related places.
 
 Users can add places of interest and additional information on existing places as: text, photos, videos, and links. In addition, users can create events around specific points of interest.
