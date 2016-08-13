@@ -1,0 +1,1729 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>animal_layer</name>
+		<Placemark>
+			<name>טעם החיים</name>
+			<description><![CDATA[תיאור: המסעדה הטבעונית הראשונה בתל אביב<br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>המסעדה הטבעונית הראשונה בתל אביב</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76836909999997,32.0781371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.766847600000006,32.0773655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.781971200000044,32.075317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס - חצרות יפו - תל אביב</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.759787200000005,32.0545506,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.81149060000007,32.08603289999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס - גבעתיים</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.8109958,32.0662768,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76252320000003,32.0361429,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.772431299999994,32.002632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80264910000005,32.0849324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78975839999998,32.0814474,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מקדונלד'ס</name>
+			<description><![CDATA[תיאור: מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מרוויחה מיליארי דולרים בשנה על חשבון הגב של העובדים, בעלי החיים ואיכות הסביבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.7753275,32.0750111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר קינג</name>
+			<description><![CDATA[תיאור: מנצלת עובדים ובעלי חיים משנת 1954<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מנצלת עובדים ובעלי חיים משנת 1954</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78159370000003,32.0811429,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>קינג דיוויד בורגר - King David Burger</name>
+			<description><![CDATA[תיאור: חלקי גופות בלחמנייה<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>חלקי גופות בלחמנייה</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.800768800000014,31.9621856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר קינג ישראל</name>
+			<description><![CDATA[תיאור: מנצלת עובדים ובעלי חיים משנת 1954<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מנצלת עובדים ובעלי חיים משנת 1954</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.77120049999996,32.0676462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר קינג</name>
+			<description><![CDATA[תיאור: מנצלת עובדים ובעלי חיים משנת 1954<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מנצלת עובדים ובעלי חיים משנת 1954</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78738599999997,32.015832,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר קינג</name>
+			<description><![CDATA[תיאור: מנצלת עובדים ובעלי חיים משנת 1954<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מנצלת עובדים ובעלי חיים משנת 1954</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80132800000001,31.93210999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר קינג</name>
+			<description><![CDATA[תיאור: מנצלת עובדים ובעלי חיים משנת 1954<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מנצלת עובדים ובעלי חיים משנת 1954</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.807050000000004,31.961544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>רשת בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.83590300000003,32.092505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burger Ranch</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.90267689999996,32.0796924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.770486000000005,32.0694443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78550670000004,32.0220589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>רשת בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.86112170000001,32.32709239999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.86524310000004,32.0925367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>רשת בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76557200000002,32.073703,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.77902859999995,32.0128121,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגר ראנץ</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.82368580000002,32.1645679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>רשת בורגר ראנץ'</name>
+			<description><![CDATA[תיאור: בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>בהשראת אחיותיה האמריקאיות (מק'דונלדס ובורגר קינג), רשת ההמבורגרים הישראלית מנצלת עובדים ובעלי חיים משנת 1972</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.75522699999999,32.015465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ג'לה</name>
+			<description><![CDATA[תיאור: גלידרייה טבעונית :)<br><br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>גלידרייה טבעונית :)
+</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.77236089999997,32.0597039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>החתול הירוק</name>
+			<description><![CDATA[תיאור: פיצה טבעונית<br><br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>פיצה טבעונית
+</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.77481039999998,32.0618155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>רק בשר- סלמה</name>
+			<description><![CDATA[תיאור: מסעדת בשר<br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מסעדת בשר</value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76290949999998,32.0546275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבות ארגמן בע"מ</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.87127799999996,31.906364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת משק דותן</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.929303000000004,31.8956862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבות גד (שיווק 1992) בע"מ</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.74744399999997,32.0076788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ח.ד. מחלבת דשן בע"מ</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.79814499999998,32.0787541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת מרקוביץ ארץ זבת חלב</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.91148989999999,32.0554512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת גל</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.92769599999997,31.980493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>כפיר מחלבות בע"מ</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.73240820000001,31.8864489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת המושבה בע"מ</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.921161900000016,32.1548271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת פנחס יצחק</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.90060500000004,32.03086279999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מחלבת המאירי</name>
+			<description><![CDATA[תיאור: מחלבה<br>icon: business<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>מחלבה</value>
+				</Data>
+				<Data name='icon'>
+					<value>business</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.65870689999997,31.7830224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>אנונימוס לזכויות בעלי חיים</name>
+			<description><![CDATA[תיאור: עמותה למען בעלי החיים<br>icon: office<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value>עמותה למען בעלי החיים</value>
+				</Data>
+				<Data name='icon'>
+					<value>office</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76717150000002,32.07294169999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>טל הל יסכה בע"מ</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.84452369999997,32.0246461,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>משחטת עוף ריינה בע"מ</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.31765399999995,32.719924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>עופות אחים זטמה נצרת בע"מ</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.30354599999998,32.69963499999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מעוף מעיין יסכה</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.75167120000003,31.7245995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>משחטת עוף צח חברה בע"מ</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.33716700000002,32.853705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>האקדמית תל-אביב יפו</name>
+			<description><![CDATA[תיאור: <br>icon: vivisection<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>vivisection</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.7609645,32.04772750000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>אוניברסיטת תל-אביב</name>
+			<description><![CDATA[תיאור: <br>icon: vivisection<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>vivisection</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80438770000001,32.1133141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מכון ויצמן למדע</name>
+			<description><![CDATA[תיאור: <br>icon: vivisection<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>vivisection</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.81136300000003,31.90786700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BBB</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.803765500000054,31.9131226,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BBB</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78408549999995,32.0702573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.79410359999997,32.0694007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BBB Burgus Burger Bar</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80853669999999,31.9743258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.65864720000002,31.8133111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BBB</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80857660000004,31.97426489999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.838402900000006,32.108558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.90185329999997,32.1316449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80860519999999,32.158617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בורגוס בורגר בר</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.879204800000025,32.1971606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בית מטבחיים דבאח בע"מ</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.268393999999944,32.93445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בית מטבחיים</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.18424870000001,32.794945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בית מטבחיים</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.279486200000065,32.9324889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בית המטבחיים, חולון</name>
+			<description><![CDATA[תיאור: <br>icon: slaughter<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>slaughter</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.79369309999993,31.99347770000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>החווה</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80707440000003,32.0938277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ספארי רמת גן</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.82968329999994,32.0514288,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>הספארי - המרכז הזואולוגי תל אביב-רמת גן</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.82188700000006,32.045345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78687549999995,32.0141337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>חי בחולון</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.793336400000044,32.0205175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת החי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76459120000004,32.0135379,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.806862000000024,32.100197,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.844787999999994,32.082862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.80015479999997,31.93430649999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>חי כיף</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.789039499999944,31.9751202,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>גן החי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.87387269999999,32.0876572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.82635200000004,31.925235,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>פינת חי</name>
+			<description><![CDATA[תיאור: <br>icon: caged<br>good_bad: bad]]></description>
+			<styleUrl>#icon-1899-A52714</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>caged</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>bad</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.79794400000003,31.879783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>זכאים</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.771739300000036,32.065698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>לודנס</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.882295,32.19545900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בודהה בורגרס</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76995569999997,32.0616035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>גרין שאק</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.76887020000004,32.0571114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>אנסטסיה</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.774780899999996,32.0796179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>השווארמה הטבעונית</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.776400999999964,32.0759396,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>איאנה</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.88887879999993,32.0924216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>מיס קפלן</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.78563269999995,32.0733293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>סופיצה - SOUPIZZA | המרקיה</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.778324,32.065662,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>בוסתן 15</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.770722699999965,32.0649796,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>חומוס אבו דאבי</name>
+			<description><![CDATA[תיאור: <br>icon: food<br>good_bad: good]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name='תיאור'>
+					<value></value>
+				</Data>
+				<Data name='icon'>
+					<value>food</value>
+				</Data>
+				<Data name='good_bad'>
+					<value>good</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.77644120000002,32.07596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1899-097138-normal'>
+			<IconStyle>
+				<color>ff387109</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-097138-highlight'>
+			<IconStyle>
+				<color>ff387109</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-097138'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-097138-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-097138-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-A52714-normal'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-A52714-highlight'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-A52714'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-A52714-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-A52714-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
