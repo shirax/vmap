@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Locations } from '../api/locations.js'
+import geojson from '../../public/json/locations.js'
 
 class AddForm extends Component {
 
@@ -46,25 +47,6 @@ export default class Map extends Component {
         addCoordinates: e.lngLat
       })
     })
-
-    var geojson = {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "properties": {
-                    "message": "Foo",
-                    "icon": "office"
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        35, 32
-                    ]
-                }
-            }
-        ]
-    }
 
     geojson.features.map((marker) => {
         var el = document.createElement('i');
