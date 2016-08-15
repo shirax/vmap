@@ -1,5 +1,7 @@
 <img src="https://cdn.rawgit.com/shirax/vmap/master/webapp/public/img/logo.svg" height="200">
 
+[![Krihelimeter](http://krihelinator.xyz/badge/shirax/vmap)](http://krihelinator.xyz) 
+
 # Vmap - Directing to Action
 
 Vmap is an interactive map presenting vegan and animal rights related locations.
@@ -18,6 +20,3 @@ $ meteor
 ## License
 
 [AGPLv3](LICENSE)
-
-
- [![Krihelimeter](http://krihelinator.xyz/badge/shirax/vmap)](http://krihelinator.xyz) 
