@@ -18,3 +18,6 @@ $ meteor
 ## License
 
 [AGPLv3](LICENSE)
+
+
+ [![Krihelimeter](http://krihelinator.xyz/badge/shirax/vmap)](http://krihelinator.xyz) 
