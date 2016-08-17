@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 300 300" version="1.1">
+  <g id="layer1" transform="translate(0 -752.36)">
+    <text id="text3042" font-size="20px" xml:space="preserve" transform="translate(0 62.362)" y="733.42126" x="1016.2135" font-family="Plantagenet Cherokee" fill="#000000">
+      <tspan id="tspan3044" y="733.42126" x="1016.2135"/>
+    </text>
+    <g id="g5042" transform="matrix(.92193 0 0 .92193 39.407 45.118)">
+      <g id="g5558" fill="#d5d5d5" transform="matrix(.94393 0 0 .94393 14.85 31.044)">
+        <path id="path3059" fill="#000" d="m123.46 846.7c-2.0207 0.004-4.262 0.96703-6.7906 3.1777-17.981 15.72-16.282 10.902-17.974 14.673l-7.9899 17.818s-15.861 1.7006-19.982 8.3821c-4.1211 6.6815 4.3595 15.79 0.9899 25.146-3.3696 9.3566-31.773 18.116-40.814 21.012-9.0413 2.8959-22.98-5.2368-22.98-5.2368s-29.087-28.919-46.949-40.921c-20.416-13.718 8.2745 32.735 7.3904 68.159-0.55946 22.411-36.091 75.078-12.382 65.987 16.1-6.1734 46.949-19.926 46.949-19.926s30.873 1.8314 41.957 6.2744c11.085 4.4431 40.307 5.6826 41.818 14.705 1.5106 9.0226-9.984 28.292-9.984 28.292 14.393-7.6742 29.779-20.854 45.945-19.909 6.828 0.1053 22.006 2.5324 33.968 1.0538s22.794-7.8498 25.964-1.0538c3.1692 6.796-5.4445 25.019 2.998 28.292 0 0 8.685-37.354 33.967-41.91 25.282-4.5564 48.104-23.993 48.957-36.69 0.85352-12.697-84.621-6.5585-79.341-13.311 7.179-9.1816 91.368-14.405 90.329-28.616-1.0389-14.21-17.637-29.998-31.974-39.819-14.336-9.8213-34.913-13.498-50.951-15.727-16.038-2.2283-29.283 7.2245-43.951 1.0539-12.606-5.3029-16.821-40.957-29.171-40.905zm76.538 58.756c10.953 0 19.842 9.14 19.842 20.428s-8.889 20.445-19.842 20.445-19.828-9.1563-19.828-20.445c0-11.288 8.8752-20.428 19.828-20.428z"/>
+      </g>
+    </g>
+    <text id="text4266" font-size="20px" xml:space="preserve" transform="translate(0 62.362)" y="748.57141" x="552.85712" font-family="Plantagenet Cherokee" fill="#000000">
+      <tspan id="tspan4268" y="748.57141" x="552.85712"/>
+    </text>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
