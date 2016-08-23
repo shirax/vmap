@@ -42,11 +42,13 @@ export default class Map extends Component {
       zoom: 6
     });
 
-    /* this.map.on('click', (e) => {
-     *   this.setState({
-     *     addCoordinates: e.lngLat
-     *   })
-     * })*/
+    this.map.on('click', (e) => {
+      if (this.map.getZoom() > 15) {
+      this.setState({
+        addCoordinates: e.lngLat
+      })
+      }
+    })
 
     geojson.features.map((marker) => {
         var el = document.createElement('i');
