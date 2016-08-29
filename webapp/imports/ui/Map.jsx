@@ -22,6 +22,11 @@ class AddForm extends Component {
             <form>
                 <input type='text' ref='name'></input>
                 <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
+                <button onClick={(e) => {
+                  this.props.resetAddCoordinates()
+                  e.preventDefault()
+                }}>Close</button>
+
             </form>
         </div>
       );
@@ -77,7 +82,9 @@ export default class Map extends Component {
     return (
       <div id='map-container'>
           <div id='map'></div>
-          <AddForm coordinates={this.state.addCoordinates} />
+          <AddForm coordinates={this.state.addCoordinates} resetAddCoordinates={() => {
+            this.setState({addCoordinates: null})
+          }} />
       </div>
     );
   }
