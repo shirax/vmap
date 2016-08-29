@@ -14,12 +14,17 @@ class AddForm extends Component {
   }
 
   render () {
-    return <div id='add-form' style={{display: this.props.coordinates ? '' : 'none'}}>
-        <form>
-            <input type='text' ref='name'></input>
-            <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
-        </form>
-    </div>
+    if (!this.props.coordinates)
+      return <div></div>
+
+    return(
+        <div id='add-form'>
+            <form>
+                <input type='text' ref='name'></input>
+                <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
+            </form>
+        </div>
+      );
   }
 
 }
@@ -44,9 +49,9 @@ export default class Map extends Component {
 
     this.map.on('click', (e) => {
       if (this.map.getZoom() > 15) {
-      this.setState({
-        addCoordinates: e.lngLat
-      })
+        this.setState({
+            addCoordinates: e.lngLat
+        })
       }
     })
 
