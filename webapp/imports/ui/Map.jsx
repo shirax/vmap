@@ -18,11 +18,11 @@ class AddForm extends Component {
       return <div></div>
 
     return(
-        <div id='add-form'>
+        <div id='add-form' className='popup'>
             <form>
                 <input type='text' ref='name'></input>
                 <button onClick={(e) => this.handleSubmit(e)}>Submit</button>
-                <button onClick={(e) => {
+                <button className="close-button" onClick={(e) => {
                   this.props.resetAddCoordinates()
                   e.preventDefault()
                 }}>Close</button>
@@ -34,14 +34,39 @@ class AddForm extends Component {
 
 }
 
+
+class PlaceInfo extends Component {
+
+  render () {
+    if (!this.props.place)
+      return <div></div>
+
+    return (
+      <div id='place-info' className='popup'>
+        <h2>{this.props.place.properties.Name}</h2>
+        <img src={"/img/" + this.props.place.properties.icon + ".svg"}/>
+        <div>
+        <button className="close-button" onClick={(e) => {
+            this.props.resetPlaceChosen()
+            e.preventDefault()
+          }}>Close</button>
+        </div>
+      </div>
+    )
+  }
+}
+
 export default class Map extends Component {
 
   constructor (props) {
     super(props)
     this.state = {
-      addCoordinates: null
+      addCoordinates: null,
+      placeChosen: null,
     }
+    getMarkerInfo = this;
   }
+
 
   componentDidMount () {
     mapboxgl.accessToken = 'pk.eyJ1IjoieXV2YWRtIiwiYSI6ImNpcnMxbWx1eDAwZTloam5oMXdqN2R6bDYifQ.LGjBhkdSjDCEHcw6iNjpxg';
@@ -54,11 +79,10 @@ export default class Map extends Component {
 
     this.map.on('click', (e) => {
       if (this.map.getZoom() > 15) {
-        this.setState({
-            addCoordinates: e.lngLat
-        })
+        this.setState(Object.assign({}, this.state, {addCoordinates: e.lngLat}))
       }
     })
+
 
     geojson.features.map((marker) => {
         var el = document.createElement('i');
@@ -66,11 +90,16 @@ export default class Map extends Component {
         el.style.backgroundImage = 'url(/img/' + marker.properties.icon + '.svg)';
         el.style.width = 40 + 'px';
         el.style.height = 40 + 'px';
-
+        el.addEventListener('click', function() {
+            getMarkerInfo.setState(Object.assign({}, this.state, {placeChosen: marker}));
+            });
         new mapboxgl.Marker(el)
             .setLngLat(marker.geometry.coordinates)
             .addTo(this.map);
+
     });
+
+
 
   }
 
@@ -85,6 +114,9 @@ export default class Map extends Component {
           <AddForm coordinates={this.state.addCoordinates} resetAddCoordinates={() => {
             this.setState({addCoordinates: null})
           }} />
+          <PlaceInfo place={this.state.placeChosen} resetPlaceChosen={() => {
+            this.setState({placeChosen: null})
+          }}/>
       </div>
     );
   }
