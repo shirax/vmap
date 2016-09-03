@@ -35,3 +35,14 @@ div.good>object>svg {
 div.bad path {
     fill: red;
 }
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+}
+
+.figcaption {
+  text-align: center;
+}
