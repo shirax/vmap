@@ -9,11 +9,29 @@ div#map {
     height: 100vh;
 }
 
-div#add-form {
+div.popup {
     height: 65vh;
     width: 80vw;
     background-color: white;
     position: fixed;
     top: 10vh;
     left: 10vw;
+    display: block;
+}
+
+i.marker {
+    shape-rendering: crispEdges;
+}
+
+
+.close-button {
+    bottom: 0;
+}
+
+div.good>object>svg {
+    fill: blue!important;
+}
+
+div.bad path {
+    fill: red;
 }
