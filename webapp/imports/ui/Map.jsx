@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import Isvg from 'react-inlinesvg';
 import {Grid, Row, Col} from 'react-bootstrap';
 import { Locations } from '../api/locations.js'
 import geojson from '../../public/json/locations.js'
@@ -44,13 +45,15 @@ class PlaceInfo extends Component {
 
     return (
       <div id='place-info' className='popup'>
-        <div>
+        <div className={this.props.place.properties.good_bad}>
           <Grid>
             <div className= "close"></div>
             <div className= "back"></div>
             <Row>
-          <Col md={3} xs={3}><img src={"/img/" + this.props.place.properties.icon + ".svg"}/></Col>
-          <Col md={9} xs={9}><h3>{this.props.place.properties.Name}</h3></Col>
+                <Col md={3} xs={3}>
+                    <Isvg src={"/img/" + this.props.place.properties.icon + ".svg"}></Isvg>
+                </Col>
+            <Col md={9} xs={9}><h3>{this.props.place.properties.Name}</h3></Col>
         </Row>
         <Row>
           <Col md={12} xs={12}>{this.props.place.properties.description}</Col>
@@ -58,13 +61,13 @@ class PlaceInfo extends Component {
         <Row>
           <Col md={6} xs={6} className="centered">
             <figure className="figure">
-              <img src="/img/text.svg" className="figure-img img-fluid img-rounded" alt=" "/>
+                <Isvg src="/img/text.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
               <figcaption className="figure-caption icon-label">read more</figcaption>
             </figure>
           </Col>
           <Col md={6} xs={6} className="centered">
             <figure className="figure">
-              <img src="/img/photo.svg" className="figure-img img-fluid img-rounded" alt=" "/>
+                <Isvg src="/img/photo.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
               <figcaption className="figure-caption icon-label">photos</figcaption>
             </figure>
           </Col>
@@ -72,13 +75,13 @@ class PlaceInfo extends Component {
           <Row>
             <Col md={6} xs={6} className="centered">
             <figure className="figure">
-              <img src="/img/link.svg" className="figure-img img-fluid img-rounded" alt=" "/>
+                <Isvg src="/img/link.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
               <figcaption className="figure-caption icon-label">links</figcaption>
             </figure>
           </Col>
             <Col md={6} xs={6} className="centered">
               <figure className="figure">
-                <img src="/img/play.svg" className="figure-img img-fluid img-rounded" alt=" "/>
+                  <Isvg src="/img/play.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
                 <figcaption className="figure-caption icon-label">videos</figcaption>
               </figure>
             </Col>
@@ -86,7 +89,7 @@ class PlaceInfo extends Component {
         <Row>
           <Col md={12} xs={12} className="centered">
             <figure className="figure">
-              <img src="/img/event.svg" className="figure-img img-fluid img-rounded" alt=" "/>
+                <Isvg src="/img/event.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
               <figcaption className="figure-caption icon-label">take action</figcaption>
             </figure>
           </Col>
