@@ -29,11 +29,11 @@ i.marker {
 }
 
 div.good span svg path {
-    fill: blue!important;
+    fill: #ff00ff!important; /*purple*/
 }
 
 div.bad span svg path {
-    fill: red!important;
+    fill: #ffbf00!important; /*ornage*/
 }
 
 .centered {
@@ -50,4 +50,12 @@ div.bad span svg path {
 #megaphone span svg {
   width: 100%;
   height: 100%;
+}
+
+div.good #megaphone span svg path {
+    fill: #00d400!important; /*green*/
+}
+
+div.bad #megaphone span svg path {
+    fill: #ff0000!important; /*red*/
 }
