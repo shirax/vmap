@@ -88,7 +88,7 @@ class PlaceInfo extends Component {
         </Row>
         <Row>
           <Col md={12} xs={12} className="centered">
-            <figure className="figure">
+            <figure className="figure" id="megaphone">
                 <Isvg src="/img/event.svg" className="figure-img img-fluid img-rounded" alt=" "></Isvg>
               <figcaption className="figure-caption icon-label">take action</figcaption>
             </figure>

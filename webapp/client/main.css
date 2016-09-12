@@ -46,3 +46,8 @@ div.bad path {
 .figure {
   text-align: center;
 }
+
+#megaphone span svg {
+  width: 100%;
+  height: 100%;
+}
