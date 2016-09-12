@@ -28,12 +28,12 @@ i.marker {
     bottom: 0;
 }
 
-div.good>object>svg {
+div.good span svg path {
     fill: blue!important;
 }
 
-div.bad path {
-    fill: red;
+div.bad span svg path {
+    fill: red!important;
 }
 
 .centered {

@@ -14,7 +14,7 @@
    viewBox="0 0 35.718773 38.482381"
    id="svg7129"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="photo.svg">
   <defs
      id="defs7131" />
@@ -25,17 +25,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.592467"
-     inkscape:cx="17.859386"
-     inkscape:cy="19.24119"
+     inkscape:zoom="18.485834"
+     inkscape:cx="20.163581"
+     inkscape:cy="17.076869"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4360"
      showgrid="false"
      fit-margin-top="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
      fit-margin-left="5"
-     units="px" />
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7134">
     <rdf:RDF>
@@ -44,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,27 +62,20 @@
        id="g4360"
        transform="translate(-651.21265,301.19978)">
       <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4698"
+         cx="486.22501"
+         cy="280.39343"
+         r="12.225577" />
+      <path
          style="opacity:1;fill:#d743e3;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4252"
-         cx="486.17883"
-         cy="280.41022"
-         r="12.859382" />
+         d="M 17.859375 6.3808594 A 12.859382 12.859382 0 0 0 5 19.240234 A 12.859382 12.859382 0 0 0 17.859375 32.099609 A 12.859382 12.859382 0 0 0 30.71875 19.240234 A 12.859382 12.859382 0 0 0 17.859375 6.3808594 z M 15.230469 10.96875 L 20.447266 10.96875 C 21.122335 10.96875 21.669922 11.516337 21.669922 12.191406 L 21.820312 13.371094 L 26.884766 13.371094 C 27.334839 13.371094 27.699219 13.715942 27.699219 14.166016 L 27.699219 24.679688 C 27.699219 25.12976 27.334839 25.513672 26.884766 25.513672 L 8.8339844 25.513672 C 8.3839111 25.513672 8.0195313 25.12976 8.0195312 24.679688 L 8.0195312 14.166016 C 8.0195312 13.715942 8.3839111 13.371094 8.8339844 13.371094 L 13.857422 13.371094 L 14.009766 12.191406 C 14.009766 11.516337 14.5554 10.96875 15.230469 10.96875 z M 22.484375 14.267578 L 22.484375 15.53125 L 26.761719 15.53125 L 26.761719 14.267578 L 22.484375 14.267578 z M 17.863281 14.414062 C 15.09553 14.414062 12.851563 16.65803 12.851562 19.425781 C 12.851562 22.193491 15.09553 24.4375 17.863281 24.4375 C 20.631032 24.4375 22.875 22.193451 22.875 19.425781 C 22.875 16.65803 20.631032 14.414063 17.863281 14.414062 z M 17.871094 16.349609 A 3.0647439 3.0647439 0 0 1 20.9375 19.414062 A 3.0647439 3.0647439 0 0 1 17.871094 22.480469 A 3.0647439 3.0647439 0 0 1 14.806641 19.414062 A 3.0647439 3.0647439 0 0 1 17.871094 16.349609 z "
+         transform="translate(468.31945,261.16903)"
+         id="circle4252" />
       <g
          style="fill:#ffffff"
          transform="matrix(0.04074536,0,0,0.04074536,475.76839,268.95897)"
-         id="g4345">
-        <circle
-           style="fill:#ffffff"
-           cx="255.811"
-           cy="285.30899"
-           r="75.217003"
-           id="circle4347" />
-        <path
-           style="fill:#ffffff"
-           inkscape:connector-curvature="0"
-           d="M 477,137 352.718,137 349,108 C 349,91.432 335.568,78 319,78 l -128,0 c -16.568,0 -30,13.432 -30,30 L 157.282,137 34,137 c -11.046,0 -20,8.454 -20,19.5 l 0,258 c 0,11.046 8.954,20.5 20,20.5 l 443,0 c 11.046,0 20,-9.454 20,-20.5 l 0,-258 C 497,145.454 488.046,137 477,137 Z M 255.595,408.562 c -67.928,0 -122.994,-55.066 -122.994,-122.993 0,-67.928 55.066,-122.994 122.994,-122.994 67.928,0 122.994,55.066 122.994,122.994 0,67.926 -55.066,122.993 -122.994,122.993 z M 474,190 l -105,0 0,-31 105,0 0,31 z"
-           id="path4349" />
-      </g>
+         id="g4345" />
     </g>
   </g>
 </svg>
