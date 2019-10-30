@@ -26,14 +26,17 @@ i.marker {
 
 .close-button {
     bottom: 0;
+    padding: 0;
+    border: none;
+    background: none;
 }
 
-div.good span svg path {
-    fill: blue!important;
+div.good figure span svg path {
+    fill: puprle!important;
 }
 
-div.bad span svg path {
-    fill: red!important;
+div.bad figure span svg path {
+    fill: orange!important;
 }
 
 .centered {
