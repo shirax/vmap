@@ -54,3 +54,11 @@ div.bad figure span svg path {
   width: 100%;
   height: 100%;
 }
+
+div.good #megaphone span svg path {
+    fill: #00d400!important; /*green*/
+}
+
+div.bad #megaphone span svg path {
+    fill: #ff0000!important; /*red*/
+}
